@@ -14,6 +14,20 @@ font-family: MS UI Gothic !important;
 --background-secondary-alt: #1d1818;
 --background-tertiary: #191515;
 --channeltextarea-background: #171717;
+--brand-experiment: #f7a367;
+--brand-experiment-560: #eca979;
+--brand-experiment-30a: #da854885;
+}
+.member-2gU6Ar:hover>div>div>.subText-OGOWMj {
+	display: block;
+	height: auto
+}
+.member-2gU6Ar:hover>div {
+	height: 38px;
+}
+.member-2gU6Ar>div {
+	transition-property: height;
+	transition-duration: 0.2s
 }
 .compact-2Nkcau .timestamp-p1Df1m, .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH {
 text-align: center;
@@ -94,6 +108,7 @@ min-width: 16px
 }
 .subText-OGOWMj {
 	display: none;
+	height: 0px;
 }
 .avatar-6qzftW {
 	width: 26px;
@@ -115,4 +130,7 @@ min-width: 16px
 }
 .newMessagesBar-1hF-9G {
     background-color: #ad7c5a;
+}
+.wanderingCubesItem-3Us-UG {
+	background-color: #ad7c5a;
 }
