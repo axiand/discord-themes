@@ -1,0 +1,114 @@
+/**
+ * @name irc-cord
+ * @author axi
+ * @description Compact and aesthetic Discord. Requires the MS UI Gothic font installed (comes preinstalled on Windows OSes)
+ * @version 1.0.0
+ */
+
+* {
+font-family: MS UI Gothic !important;
+}
+.theme-dark {
+--background-primary: #2C2525;
+--background-secondary: #211C1C;
+--background-secondary-alt: #1d1818;
+--background-tertiary: #191515;
+--channeltextarea-background: #171717;
+}
+.compact-2Nkcau .timestamp-p1Df1m, .cozy-VmLDNB .timestamp-p1Df1m.alt-1dvXnH {
+text-align: center;
+font-size: 0.7875rem;
+}
+.replyBadge-LMm_Ic {
+display: none;
+}
+.compact-2Nkcau .repliedMessage-3Z6XBG:before {
+display: none;
+}
+.group-spacing-0 .groupStart-3Mlgv1 {
+margin-top: .1425rem;
+border-top: 1px solid #313131;
+}
+.message-2CShn3 {
+    animation-name: messageFadeIn;
+    animation-duration: 0.2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes messageFadeIn {
+    0% {
+        opacity: 0;
+        transform: translate(-2px, 0px);
+    }
+    100% {
+        opacity: 1;
+    }
+}
+.username-h_Y3Us::after {
+    content: ":";
+}
+.container-2gUZhU {
+top: 0px;
+}
+.wrapper-2vIMkT {
+height: 24px;
+background-color: transparent;
+box-shadow: none;
+}
+.button-3bklZh {
+height: 16px;
+min-width: 16px
+}
+.full-motion .wrapper-2vIMkT:hover {
+    box-shadow: none;
+}
+.content-1gYQeQ {
+	border-radius: 0px;
+	padding: 0px 2px;
+	margin-left: 4px;
+}
+.wrapper-NhbLHG {	
+    padding: 0px;
+}
+.mainContent-20q_Hp {
+    padding: 4px 0;	
+}
+.unread-36eUEm {
+	height: 85%;
+    width: 1px;
+    border-radius: 0px;
+    top: 7%;
+    left: 0;
+    margin-top: 0px;
+}
+.wrapper-NhbLHG:hover .content-1gYQeQ {
+	background-color: #98989817;
+}
+.modeSelected-3DmyhH .content-1gYQeQ, .modeSelected-3DmyhH:hover .content-1gYQeQ {
+    background-color: #ffffff1a;
+}
+.layout-1qmrhw {
+	border-radius: 0px;
+    height: 32px;
+}
+.subText-OGOWMj {
+	display: none;
+}
+.avatar-6qzftW {
+	width: 26px;
+    height: 26px;
+}
+.avatar-6qzftW>.wrapper-1VLyxH {
+	width: 26px !important;
+    height: 26px !important;
+}
+.membersGroup-2eiWxl {
+	padding: 4px 8px 0 16px;
+    height: 22px;
+}
+.container-1oeRFJ {
+	border-radius: 0px;
+}
+.members-3WRCEx>div>div:nth-child(odd) {
+	background-color: #8a8a8a0d
+}
