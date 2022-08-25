@@ -80,6 +80,7 @@ min-width: 16px
     top: 7%;
     left: 0;
     margin-top: 0px;
+	background-color: #eca979;
 }
 .wrapper-NhbLHG:hover .content-1gYQeQ {
 	background-color: #98989817;
@@ -111,4 +112,7 @@ min-width: 16px
 }
 .members-3WRCEx>div>div:nth-child(odd) {
 	background-color: #8a8a8a0d
+}
+.newMessagesBar-1hF-9G {
+    background-color: #ad7c5a;
 }
