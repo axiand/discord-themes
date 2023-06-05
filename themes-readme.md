@@ -7,10 +7,10 @@ An aesthetic theme which replicates an old IRC sort of look. Works best with the
 # Inlineified buttons
 Brings the message action buttons back inside the message itself.
 
+![Example Image](https://cdn.discordapp.com/attachments/938612159590584331/1012416879131889705/unknown.png)
+![Another Example Image](https://cdn.discordapp.com/attachments/938612159590584331/1012416834357698680/unknown.png)
+
 # Debloaters
 
 ## No Super Reactions
 Hides functionality related to Super Reactions.
-
-![Example Image](https://cdn.discordapp.com/attachments/938612159590584331/1012416879131889705/unknown.png)
-![Another Example Image](https://cdn.discordapp.com/attachments/938612159590584331/1012416834357698680/unknown.png)
