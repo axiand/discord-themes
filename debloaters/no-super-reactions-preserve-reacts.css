@@ -1,0 +1,30 @@
+/**
+ * @name no-super-reactions-preserve-reacts
+ * @author axi
+ * @description Hides all functionality related to Super Reactions. This modified version of the style preserves existing super reacts in chat, only hiding the effects for performance.
+ * @version 1.0.0
+ */
+
+.button-3bklZh[aria-label="Add Super Reaction"] {
+    display: none;
+}
+
+.item-5ApiZt[id="message-add-reaction-1"] {
+    display: none;
+}
+
+.navButton-Z_c6CC[id="super-reaction-picker-tab"] {
+    font-size: 0px;
+}
+
+.navButton-Z_c6CC[id="super-reaction-picker-tab"]::after {
+    display: none;
+}
+
+.reaction-3vwAF2:has(> div > .burstGlow-3AZMzF) {
+    --display: none;
+}
+
+.effectsWrapper-1M6qbb {
+    display: none;
+}
