@@ -1,0 +1,11 @@
+/**
+ * @name text-mentions
+ * @author axi
+ * @description Turns mentions into text only, makes the text color blurple to compensate.
+ * @version 1.0.0
+ */
+
+.wrapper-1ZcZW- {
+    background: none;
+    color: var(--brand-400)
+}

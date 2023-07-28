@@ -1,0 +1,11 @@
+/**
+ * @name chat-lines
+ * @author axi
+ * @description Brings back the lines to chat. Looks a bit scuffed, but works.
+ * @version 1.0.0
+ */
+ 
+.scrollerInner-2PPAp2 > li:has(div.groupStart-3Mlgv1) > div {
+    padding-top: 8px;
+    border-top: 1px var(--primary-460) solid;
+}

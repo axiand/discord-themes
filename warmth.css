@@ -1,0 +1,30 @@
+/**
+ * @name warmth-palette
+ * @author axi
+ * @description Replaces the vanilla dark theme with a warm color palette. No other visual changes.
+ * @version 1.0.0
+ */
+ 
+.theme-dark {
+	--background-primary: #282422;
+    --background-secondary: #2c2826;
+    --background-secondary-alt: #221f1d;
+    --background-tertiary: #1a1817;
+    --channeltextarea-background: #161413;
+	--scrollbar-auto-thumb: #1a1817;
+    --scrollbar-auto-track: #221f1d;
+	--background-modifier-selected: #403e3d;
+	--background-modifier-hover: #1e1c1c;
+	--background-floating: #141313;
+	--status-danger: #d75454;
+	--input-background: #3a3635;
+}
+
+.profileColors-2AgAV4 {
+    --profile-body-background-color: #181616;
+	--text-normal: #d5cecb;
+}
+
+html {
+	--brand-experiment: #eb8560;
+}

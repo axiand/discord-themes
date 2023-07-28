@@ -1,0 +1,25 @@
+/**
+ * @name expanded-user-bar
+ * @author axi
+ * @description Expands the user settings bar to fill the server list.
+ * @version 1.0.0
+ */
+
+.panels-3wFtMD {
+    position: absolute;
+    bottom: 0px;
+    left: -72px;
+    width: 312px;
+}
+
+.base-2jDfDU {
+	overflow: visible;
+}
+
+.container-YkUktl {
+	justify-content: space-between;
+}
+
+.guilds-2JjMmN {
+	margin-bottom: 53px;
+}
